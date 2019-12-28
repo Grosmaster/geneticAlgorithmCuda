@@ -110,4 +110,4 @@ gpu
 
 Для видео карты GeForce GTX 950 ускорение составило 7 раз.
 
-![image-20191229023248282](C:\Users\vlko\Google Диск\GoogleDrive\Images\image-20191229023248282.png)
+![image-20191229023248282](\image-20191229023248282.png)
