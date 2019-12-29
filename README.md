@@ -5,13 +5,13 @@
 Задача аппроксимации - есть множество точек, принадлежащих графику некой функции. Нужно найти полином N-ой степени, проходящий как можно ближе к этим точкам.
 
 На вход алгоритму падается:
-const int sizePoint = 500; //Количество точек
-const int sizeIndividum = 1000; //Количество индивидумов
-const int mathValueMutation = 5; //Вероятность мутации в процентах 
-const float dispersionMutation = 5.0f; //Разброс мутации
-const int powCount = 3; //Стемень полинома
-const float randMaxCount = 20.0f; //Верхняя граница для заполнения точек
-const int maxPokoleney = 30; //Максимальное количесто поколений
+- const int sizePoint = 500; //Количество точек
+- const int sizeIndividum = 1000; //Количество индивидумов
+- const int mathValueMutation = 5; //Вероятность мутации в процентах 
+- const float dispersionMutation = 5.0f; //Разброс мутации
+- const int powCount = 3; //Стемень полинома
+- const float randMaxCount = 20.0f; //Верхняя граница для заполнения точек
+- const int maxPokoleney = 30; //Максимальное количесто поколений
 
 Алгоритм:
 
