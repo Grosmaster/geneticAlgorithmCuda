@@ -22,7 +22,7 @@
 		pointsH[i] = RandomFloat(0, randMaxCount);
 	}
 
-Создание парвого поколения
+Создание первого поколения
 
 	for (int i = 0; i < sizeIndividum * powCount; i++)
 	{
